@@ -27,4 +27,5 @@ out the `flag.txt` file. I did this because of the fact that without using a pas
 - Then to run this I moved ran the command `sudo -i -u user2 bash ~/read.sh` (the `-i` gives me the login shell of user2, otherwise this fails)
 -This gave me the flag: `HTB{l473r4l_m0v3m3n7_70_4n07h3r_u53r}`
 
-![sudo-i-u user2 bash](https://github.com/user-attachments/assets/13a2ac55-de92-4e66-adf4-571662eac4b4)
+![sudo-i-u user2 bash copy](https://github.com/user-attachments/assets/0dc33d43-0037-49e2-9492-ddb3f69b0dfd)
+
